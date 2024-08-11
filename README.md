@@ -34,8 +34,3 @@ This script reads data from each sheet of an Excel file and imports it into a My
     ```bash
     python your_script_name.py
     ```
-
-## License
-
-This project is licensed under the MIT License.
-
