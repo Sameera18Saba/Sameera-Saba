@@ -1,4 +1,3 @@
-# Candidate Matching & Recruitment Optimization
 # Excel to SQL Import Script
 
 This script reads data from each sheet of an Excel file and imports it into a MySQL database.
